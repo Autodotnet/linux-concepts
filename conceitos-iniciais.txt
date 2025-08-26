@@ -1,2 +1,6 @@
 ~$ - diretório do usuário padrão
 ~# - root
+ls -lha - 
+cntrl + l - limpa tela
+cd - diretório anterior
+cd ../../
