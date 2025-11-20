@@ -1,0 +1,5 @@
+Verifificar conexão tcp usando uma porta (Windows)
+telnet x.x.x.x porta
+
+Fazer um traceroute usando uma porta tcp com o tcptraceroute (Linux)
+sudo tpctraceroute ip porta
