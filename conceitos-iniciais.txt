@@ -1,6 +1,22 @@
 ~$ - diretório do usuário padrão
 ~# - root
-ls -lha - 
+ls -lha - lista diretório e mostra tamanho dos arquivos
 cntrl + l - limpa tela
 cd - diretório anterior
 cd ../../
+link simbólico - referência pra outro arquivo (atalho)
+df -h
+/etc - arquivos de config
+/lib - biblioteca, tipo dlls do windows
+sbin - exclusivo do usuário root
+/var - logs do kubernetes
+shutdown -r now
+#! /bin/sh - shell do ssh
+
+ls -latr - ordena
+tree
+cat -s
+salvar um comando usando #comando
+
+###### adicionar usuário no sudoers
+echo "allanz ALL=(ALL:ALL) ALL" > /etc/sudoers
